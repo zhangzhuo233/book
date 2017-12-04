@@ -1,7 +1,7 @@
 # html介绍
 
 * hypertext market language
-* 超文本标记语言
+  * 超文本标记语言
 * 主要形式
   * .htm
   * .html
