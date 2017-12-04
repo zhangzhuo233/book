@@ -23,6 +23,17 @@
    1. &lt;font&gt;&lt;/font&gt;
 
    2. 格式化文本
+
+   ```html
+   	<!-- size -->
+   	<font>慕课html</font>
+   	<!-- face -->
+   	<font face="Helvetica">html 入门</font>
+   	<!-- color -->
+   	<font color="red">多姿多彩的html</font>
+   	<font color="#d8d8d8">多姿多彩的html</font>
+   	<font color="rgb(168,178,188)">多姿多彩的html</font>
+   ```
 4. # 链接
 5. # 图像
 6. # 列表
