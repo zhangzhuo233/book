@@ -1,7 +1,7 @@
 1. lang=en
 
-```
-
+```html
+<html lang="en">
 ```
 
 lang 属性规定元素内容的语言。（即language的简写）
