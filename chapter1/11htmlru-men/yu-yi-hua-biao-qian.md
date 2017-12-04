@@ -4,6 +4,11 @@
 
    2. 只有6级,只到&lt;h6&gt;
 
+   ```
+   <h1>welcome this webpage</h1>
+   <h6>zhangzhuo is a monky</h6>
+   ```
+
    ![](/assets/6级标题2.PNG)
 
 2. # 段落
@@ -14,8 +19,6 @@
    1. &lt;font&gt;&lt;/font&gt;
 
    2. 格式化文本
-
-
 
 1. # 链接
 2. # 图像
