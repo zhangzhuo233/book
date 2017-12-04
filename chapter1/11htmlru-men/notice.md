@@ -1,4 +1,4 @@
-1. lang=en
+1. lang=en对于网页翻译或屏幕阅读浏览器有指导意义.
 
 ```html
 <html lang="en">
