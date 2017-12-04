@@ -1,11 +1,13 @@
 # html介绍
 
-* hypertext market language
+* ## hypertext market language
+
   * 超文本标记语言
-* 主要形式
+* ## 主要形式
+
   * .htm
   * .html
-* 文档结构组成
+* ## 文档结构组成
 
   * ```html
     <!DOCTYPE html>
@@ -19,11 +21,8 @@
     </body>
     </html>
     ```
-
-* 结构元素顺序  
-  ![](/assets/html结构元素顺序.png)
-
-* 属性
+* ## 结构元素顺序 ![](/assets/html结构元素顺序.png)
+* ## 属性
 
   * 属：给予元素基本标识
 
