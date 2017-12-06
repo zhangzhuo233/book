@@ -63,10 +63,10 @@
    2. ```html
       <style>
       .some-logo {
-      			background: url(./img/ooopic_1483355652.ico);
-      			width: 256px;
-      			height: 256px;
-      		}
+                  background: url(./img/ooopic_1483355652.ico);
+                  width: 256px;
+                  height: 256px;
+              }
       </style>
       <img src="./img/test.ico" alt="somelogo">
       /*非标签方式*/
@@ -76,7 +76,35 @@
 
    1. 有序列表
 
-   2. 无序列表
+   2. ```html
+      <ol>学习过的语言(ol)
+      		<li>c</li>
+      		<li>c++</li>
+      		<li>html</li>
+      		<li>shell</li>
+      </ol>
+      ```
+   3. 无序列表
+
+      1. ```html
+         <ul type="circle">学习过的语言(ul)
+         		<li>c</li>
+         		<li>c++</li>
+         		<li>html</li>
+         		<li>shell</li>
+         </ul>
+         ```
+
+   4. 定义列表
+
+   ```html
+   <dl>学习过的语言
+   		<dt>c</dt>
+   		<dd>object-oriented programming</dd>
+   		<dt>c++</dt>
+   		<dd>Object Oriented Programming</dd>
+   </dl>
+   ```
 7. # div
 
 
