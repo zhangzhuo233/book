@@ -1,6 +1,4 @@
- 
-
-  块级元素的特点：
+`块级元素的特点：`
 
 （1）总是从新行开始
 
@@ -10,7 +8,9 @@
 
 （4）可以容纳内联元素和其他块元素。
 
-      内联元素的特点：
+```
+  内联元素的特点：
+```
 
 （1）和相邻行内元素在一行上。
 
@@ -22,5 +22,5 @@
 
 块级元素：div  , p  , form,   ul,  li ,  ol, dl,    form,   address,  fieldset,  hr, menu,  table
 
- 行内元素：span,   strong,   em,  br,  img ,  input,  label,  select,  textarea,  cite,  
+行内元素：span,   strong,   em,  br,  img ,  input,  label,  select,  textarea,  cite,
 
