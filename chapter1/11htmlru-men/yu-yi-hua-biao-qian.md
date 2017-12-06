@@ -60,12 +60,23 @@
 
    1. &lt;img/&gt;
 
-   2. ```
+   2. ```html
+      <style>
+      .some-logo {
+      			background: url(./img/ooopic_1483355652.ico);
+      			width: 256px;
+      			height: 256px;
+      		}
+      </style>
       <img src="./img/test.ico" alt="somelogo">
       /*非标签方式*/
       <p class="some-logo"></p>
       ```
 6. # 列表
+
+   1. 有序列表
+
+   2. 无序列表
 7. # div
 
 
