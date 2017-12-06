@@ -57,6 +57,14 @@
    http://文件路径/index.html#foot
    ```
 5. # 图像
+
+   1. &lt;img/&gt;
+
+   2. ```
+      <img src="./img/test.ico" alt="somelogo">
+      /*非标签方式*/
+      <p class="some-logo"></p>
+      ```
 6. # 列表
 7. # div
 
