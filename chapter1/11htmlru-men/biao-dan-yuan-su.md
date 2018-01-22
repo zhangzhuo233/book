@@ -1,10 +1,10 @@
 # 表单元素
 
-type隐藏和非隐藏
+input:文本、密码、单选
+
+type
 
 maxlength
 
 value
-
-
 
