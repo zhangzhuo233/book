@@ -8,5 +8,5 @@
       * [notice](chapter1/11htmlru-men/notice.md)
     * [块级元素、行内元素](chapter1/11htmlru-men/kuai-ji-yuan-su-3001-xing-nei-yuan-su.md)
 * [二.PHP进阶](phpjin-jie.md)
-* 三.ECShop3基本使用到二次开发
+* [三.ECShop3基本使用到二次开发](4e09-ecshop3-ji-ben-shi-yong-dao-er-ci-kai-fa.md)
 
