@@ -29,3 +29,5 @@ type="submit" form="表单的id属性,而不是name属性的值"
 
 type="reset"重置
 
+type="button"普通按钮
+
