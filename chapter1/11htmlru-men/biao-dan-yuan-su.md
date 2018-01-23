@@ -16,7 +16,8 @@ checked表示默认选中（应用于单、多选）
 
 2.select组合标签
 
-下拉列表，option默认选中+selected
+下拉列表，option默认选中+selected  
+3.textarea
 
-
+rows,cols属性
 
