@@ -27,5 +27,5 @@ type,form
 
 type="submit" form="表单的id属性,而不是name属性的值"
 
-type="reset"
+type="reset"重置
 
