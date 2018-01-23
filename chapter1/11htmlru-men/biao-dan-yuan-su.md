@@ -8,3 +8,5 @@ maxlength
 
 value
 
+checked表示默认选中（应用于单、多选）
+
