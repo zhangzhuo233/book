@@ -21,3 +21,9 @@ checked表示默认选中（应用于单、多选）
 
 rows,cols属性
 
+4.button
+
+type,form
+
+type="submit" form="表单的id属性,而不是name属性的值"
+
