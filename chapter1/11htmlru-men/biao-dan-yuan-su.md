@@ -19,7 +19,7 @@ checked表示默认选中（应用于单、多选）
 下拉列表，option默认选中+selected  
 3.textarea
 
-rows,cols属性
+rows,cols属性，设置样式resize：none可设置文本框大小不变
 
 4.button
 
