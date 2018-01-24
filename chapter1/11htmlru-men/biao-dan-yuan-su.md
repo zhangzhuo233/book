@@ -33,3 +33,14 @@ type="button"普通按钮
 
 palceholder
 
+```
+定义和用法
+placeholder 属性提供可描述输入字段预期值的提示信息（hint）。
+
+该提示会在输入字段为空时显示，并会在字段获得焦点时消失。
+
+注释：placeholder 属性适用于以下的 <input> 类型：text, search, url, telephone, email 以及 password。
+```
+
+
+
