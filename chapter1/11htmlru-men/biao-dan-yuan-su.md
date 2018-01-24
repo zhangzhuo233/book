@@ -31,3 +31,5 @@ type="reset"重置
 
 type="button"普通按钮
 
+palceholder
+
