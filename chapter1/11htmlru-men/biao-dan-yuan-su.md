@@ -42,5 +42,12 @@ placeholder 属性提供可描述输入字段预期值的提示信息（hint）�
 注释：placeholder 属性适用于以下的 <input> 类型：text, search, url, telephone, email 以及 password。
 ```
 
+```
+<form action="demo_form.asp" method="get">
+  <input type="search" name="user_search" placeholder="Search W3School" />
+  <input type="submit" />
+</form>
+```
+
 
 
